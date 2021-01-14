@@ -1,6 +1,8 @@
 # Fragrance
 Exploratory Data Analyis, Data Processing, Data Visualization, K Mean Clustring, Linear Regression
 
+![alt text](https://github.com/[yasaminrn]/[fragrance]/blob/[branch]/FragrancePhoto.jpg?raw=true)
+
 As a fragrance lover, herein, I have performed a comprehensive data analysis of the fragrance database from https://www.kaggle.com/hadihojjati/perfume-preprocess.
 
 Some preprocessing of the data was performed in the above mentioned kaggle page. More data processing are performed in this project to extract the parameters required for this study.
