@@ -1,5 +1,5 @@
 # Fragrance
-Exploratory Data Analyis, Data Processing, Data Visualization, K Mean Clustring, Linear Regression
+Exploratory Data Analyis, Data Processing, Data Visualization, K Means Clustring, Linear Regression
 
 <img src="./FragrancePhoto.jpg">
 
