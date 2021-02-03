@@ -13,6 +13,6 @@ Further analysis included in this project includes:
 
 2-K Mean Clustring (to group the perfumes based on their performance)
 
-3-Linear Regression (to finad the relationships between ratings score and fragrance performance)
+3-Linear Regression (to find the relationships between rating score and fragrance performance)
 
 The project is ongoing, as there are multiple trends and patterns to explore among the data. The next phase of study would be using notes and accords of the fragrance as basis for a recommendation system.
